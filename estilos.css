@@ -1,0 +1,13 @@
+*{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+img{
+    border-radius: 100%;
+}
